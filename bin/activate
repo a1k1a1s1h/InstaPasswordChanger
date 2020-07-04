@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/Users/akashtdm/Desktop/Environments/webdriverTest'
+VIRTUAL_ENV='/Users/akashtdm/Desktop/Environments/InstaPasswordChanger'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

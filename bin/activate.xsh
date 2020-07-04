@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/akashtdm/Desktop/Environments/webdriverTest"
+$VIRTUAL_ENV = r"/Users/akashtdm/Desktop/Environments/InstaPasswordChanger"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
