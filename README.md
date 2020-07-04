@@ -23,3 +23,8 @@
    Selenium is an open-source web-based automation tool. Python language is used with Selenium for testing. It has far less verbose and easy to use than any other programming language. The Python APIs empower you to connect with the browser through Selenium.
    
 //to install selenium => pip install selenium  (in terminal)
+
+# Pickle 
+   Python pickle module is used for serializing and de-serializing a Python object structure. Any object in Python can be pickled so that it can be saved on disk. What pickle does is that it “serializes” the object first before writing it to file.
+   
+//pickle is a preinstalled package 
